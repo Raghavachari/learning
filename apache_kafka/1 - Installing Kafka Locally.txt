@@ -16,4 +16,3 @@
 # Start Kafka Server
 > bin/kafka-server-start.sh config/server.properties
 
-# Added comment again
