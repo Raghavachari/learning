@@ -35,3 +35,5 @@ java.exe    java  -Xmx1G -Xms1G -server -XX:+UseG1GC ... build\libs\kafka_2.10-0
 my test message 1
 my test message 2
 ^C
+
+# Added a new comment in this file
