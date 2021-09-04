@@ -15,5 +15,3 @@
 
 # Start Kafka Server
 > bin/kafka-server-start.sh config/server.properties
-
-# This is committed for test
