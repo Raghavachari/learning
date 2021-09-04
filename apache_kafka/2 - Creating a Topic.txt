@@ -7,3 +7,5 @@
 
 # See the topic
 > bin/kafka-topics.sh --list --zookeeper localhost:2181
+
+# added this for 2nd commit
